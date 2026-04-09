@@ -1,49 +1,50 @@
-<!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=230&section=header&text=Frontend%20Developer%20Journey&fontSize=38&fontColor=0A192F&animation=fadeIn&desc=Learning%20Today%20%7C%20Building%20Tomorrow%20🚀&descAlignY=70&descColor=0A192F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=220&section=header&text=Frontend%20Journey&fontSize=38&fontColor=EAF6FF&animation=fadeIn&desc=Learning%20Everyday%20%7C%20Building%20My%20Future%20🚀&descAlignY=70&descColor=F0F8FF" />
 </p>
 
 <p align="center">
-  <!-- Different icons style (NOT same as skills section) -->
-  <img src="https://img.shields.io/badge/HTML5-0A192F?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-0A192F?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Tailwind-0A192F?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/JavaScript-0A192F?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-0A192F?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/HTML5-EAF6FF?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-EAF6FF?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/Tailwind-EAF6FF?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
+  <img src="https://img.shields.io/badge/JavaScript-EAF6FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-EAF6FF?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <!-- Animated Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=30&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hello+There!+👋;I+am+Asib+Iqbal;Frontend+Developer;Future+MERN+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=28&duration=3000&pause=1000&color=EAF6FF&center=true&vCenter=true&width=650&lines=Hello+There!+👋;I+am+Asib+Iqbal;Frontend+Developer;Future+MERN+Stack+Engineer" />
 </h1>
 
 <p align="center">
   <b>Simple. Clean. Always Learning 🚀</b>
 </p>
 
----
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
 ## 🧑‍💻 About Me
 
 Hi, I'm **Asib Iqbal** 👋  
 
-- 🌱 Learning: HTML, CSS, Tailwind, JavaScript, React, Next.js  
-- 🎯 Goal: Become a Full Stack MERN Developer  
-- 💡 Love to build clean & modern UI  
-- 🚀 Focused on growth & consistency  
+💡 I am a passionate learner focused on becoming a professional developer.
+
+- 🌱 Learning: HTML, CSS, Tailwind, JavaScript  
+- ⚛️ Working with React & Next.js  
+- 🎯 Goal: Full Stack MERN Developer  
+- 🚀 Building projects to improve daily  
+
+> "Small steps every day = Big success tomorrow"
 
 </td>
 
-<td width="45%">
+<td width="50%">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </td>
 </tr>
 </table>
----
+
 
 ## 🔥 Current Activities
 
@@ -131,5 +132,5 @@ Hi, I'm **Asib Iqbal** 👋
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=170&section=footer&text=Keep%20Learning%20Keep%20Building&fontSize=28&fontColor=0A192F&animation=fadeIn&desc=Passionate%20Learner%20%7C%20Future%20MERN%20Developer&descAlignY=70&descColor=0A192F" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=160&section=footer&text=Code.%20Learn.%20Grow.%20🚀&fontSize=26&fontColor=EAF6FF&animation=fadeIn&desc=Passionate%20Learner%20%7C%20Building%20My%20Developer%20Journey&descAlignY=70&descColor=F0F8FF" />
 </p>
