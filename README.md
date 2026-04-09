@@ -70,11 +70,8 @@ I am a passionate **learner** who is continuously improving my skills in web dev
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/asib-iqbal/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.facebook.com/">
-    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
 
