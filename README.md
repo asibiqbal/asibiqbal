@@ -92,11 +92,8 @@ Hi, I'm **Asib Iqbal** 👋
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME">
+  <a href="https://www.linkedin.com/in/asib-iqbal">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://www.facebook.com/YOUR-USERNAME">
-    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
 
