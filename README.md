@@ -69,14 +69,6 @@ Hi, I'm **Asib Iqbal** 👋
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asibiqbal&theme=algolia&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -89,7 +81,7 @@ Hi, I'm **Asib Iqbal** 👋
 
 ---
 
-## 👀 Profile Views (NEW 🔥)
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asibiqbal&label=Profile%20Views&color=0e75b6&style=flat" />
