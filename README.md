@@ -80,9 +80,8 @@ I am a passionate **learner** who is continuously improving my skills in web dev
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asibiqbal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=asibiqbal&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asibiqbal&theme=tokyonight&hide_border=true" />
 </p>
