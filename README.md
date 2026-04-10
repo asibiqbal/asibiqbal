@@ -61,7 +61,7 @@ Hi, I'm **Asib Iqbal** 👋
 
 ---
 
-## 🛠️ Tech Stack (Clean Icons)
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,git,github,vscode&theme=light" />
